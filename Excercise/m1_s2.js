@@ -1,5 +1,4 @@
-// ON GOING
-let separator = "------------------------------"
+// -----------DONE------------"
 
 //Write a code to convert celsius to fahrenheit
 console.log("Convert celsius to fahrenheit");
